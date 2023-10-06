@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C6Vh6bfrDPQ9PzhNe0K9BaOQXXOqXnwdHWPZFIrsobU=",
+  "Source": "PersonalStocksAlerter.Api",
+  "BasePath": "_content/PersonalStocksAlerter.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
