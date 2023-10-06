@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/NUnitTests/NUnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/NUnitTests/NUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/NUnitTests/NUnitTests.csproj",
+        "projectName": "NUnitTests",
+        "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/NUnitTests/NUnitTests.csproj",
+        "packagesPath": "/Users/hangphan/.nuget/packages/",
+        "outputPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/NUnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hangphan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj": {
+                "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj"
+              },
+              "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj": {
+                "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj"
+              },
+              "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter/PersonalStocksAlerter.Api.csproj": {
+                "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter/PersonalStocksAlerter.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj",
+        "projectName": "PersonalStocks.Mgr",
+        "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj",
+        "packagesPath": "/Users/hangphan/.nuget/packages/",
+        "outputPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hangphan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj": {
+                "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Skender.Stock.Indicators": {
+              "target": "Package",
+              "version": "[1.10.6, )"
+            },
+            "Trady.Analysis": {
+              "target": "Package",
+              "version": "[3.2.8, )"
+            },
+            "Trady.Core": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "YahooFinanceApi": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "YahooQuotesApi": {
+              "target": "Package",
+              "version": "[5.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj",
+        "projectName": "PersonalStocksAlerter.Models",
+        "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj",
+        "packagesPath": "/Users/hangphan/.nuget/packages/",
+        "outputPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hangphan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter/PersonalStocksAlerter.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter/PersonalStocksAlerter.Api.csproj",
+        "projectName": "PersonalStocksAlerter.Api",
+        "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter/PersonalStocksAlerter.Api.csproj",
+        "packagesPath": "/Users/hangphan/.nuget/packages/",
+        "outputPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hangphan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj": {
+                "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocks.Mgr/PersonalStocks.Mgr.csproj"
+              },
+              "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj": {
+                "projectPath": "/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/PersonalStocksAlerter.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
