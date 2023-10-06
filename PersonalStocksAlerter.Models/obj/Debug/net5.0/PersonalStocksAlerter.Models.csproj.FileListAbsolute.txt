@@ -1,0 +1,12 @@
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/bin/Debug/net5.0/PersonalStocksAlerter.Models.deps.json
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/bin/Debug/net5.0/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/bin/Debug/net5.0/ref/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/bin/Debug/net5.0/PersonalStocksAlerter.Models.pdb
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.AssemblyInfoInputs.cache
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.AssemblyInfo.cs
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.csproj.CoreCompileInputs.cache
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/ref/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.pdb
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Debug/net5.0/PersonalStocksAlerter.Models.csprojAssemblyReference.cache
