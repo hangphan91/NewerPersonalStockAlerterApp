@@ -1,0 +1,15 @@
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/bin/Release/net6.0/PersonalStocks.Mgr.deps.json
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/bin/Release/net6.0/PersonalStocks.Mgr.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/bin/Release/net6.0/PersonalStocks.Mgr.pdb
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/bin/Release/net6.0/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/bin/Release/net6.0/PersonalStocksAlerter.Models.pdb
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.csproj.AssemblyReference.cache
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.AssemblyInfoInputs.cache
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.AssemblyInfo.cs
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.csproj.CoreCompileInputs.cache
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.csproj.CopyComplete
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/refint/PersonalStocks.Mgr.dll
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/PersonalStocks.Mgr.pdb
+/Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocks.Mgr/obj/Release/net6.0/ref/PersonalStocks.Mgr.dll
