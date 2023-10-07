@@ -10,3 +10,15 @@
 /Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Release/net6.0/refint/PersonalStocksAlerter.Models.dll
 /Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.pdb
 /Users/hangphan/Projects/PersonalStocksAlerter/PersonalStocksAlerter.Models/obj/Release/net6.0/ref/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/bin/Release/net6.0/PersonalStocksAlerter.Models.deps.json
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/bin/Release/net6.0/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/bin/Release/net6.0/PersonalStocksAlerter.Models.pdb
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.csproj.AssemblyReference.cache
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.AssemblyInfoInputs.cache
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.AssemblyInfo.cs
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.csproj.CoreCompileInputs.cache
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/refint/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/PersonalStocksAlerter.Models.pdb
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/obj/Release/net6.0/ref/PersonalStocksAlerter.Models.dll

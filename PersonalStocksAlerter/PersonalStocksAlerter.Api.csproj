@@ -4,7 +4,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>HP.PersonalStocksAlerter.Api</RootNamespace>
   </PropertyGroup>
-
+  <PropertyGroup>
+ <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+</PropertyGroup>
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'PersonalStocksAlerter' " />
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />

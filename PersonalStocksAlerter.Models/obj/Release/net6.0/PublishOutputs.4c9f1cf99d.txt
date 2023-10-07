@@ -1,0 +1,3 @@
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/bin/Release/net6.0/publish/PersonalStocksAlerter.Models.dll
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/bin/Release/net6.0/publish/PersonalStocksAlerter.Models.deps.json
+/Users/hangphan/Projects/NewStockAlerter/NewerPersonalStockAlerterApp/PersonalStocksAlerter.Models/bin/Release/net6.0/publish/PersonalStocksAlerter.Models.pdb
